@@ -22,3 +22,9 @@ Download Free Elegant Under Construction Template
 Download Free Elegant Cooming Soon Template
 
 Official Coming Soon Page, Landing Page, Under Construction Page for Jagopemrograman.com
+
+# Special Thanks to
+<a href="http://agilcahyapamungkas.xyz">Agil Cahya </a><a href="http://m.agilcahyapamungkas.xyz">Pamungkas</a>
+<a href="http://jagopemrograman.com">Jago Pemrograman Developer</a>
+<a href="http://google.com">Google</a>
+<a href="http://github.com">Github</a>
