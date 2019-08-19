@@ -3,9 +3,11 @@ Jagopemrograman.com adalah sebuah website E-learning yang menyajikan informasi t
 
 # FAQ
 (1) Can i use this template for personal or commercial websites/web projects?
+
 (-) Sure, you can use both of personal and commercial websites/web projects.
 
 (2) Is the attribution link required?
+
 (-) No, not required. (Though very much appreciated)
 
 
