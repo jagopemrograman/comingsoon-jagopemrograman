@@ -8,20 +8,6 @@ Jagopemrograman.com adalah sebuah website E-learning yang menyajikan informasi t
 (2) Is the attribution link required?
 (-) No, not required. (Though very much appreciated)
 
-# Kewywords
-Download Free Modern Landing Page Template
-Download Free Modern Under Construction Template
-Download Free Modern Cooming Soon Template
-
-Download Free Classy Landing Page Template
-Download Free Classy Under Construction Template
-Download Free Classy Cooming Soon Template
-
-Download Free Elegant Landing Page Template
-Download Free Elegant Under Construction Template
-Download Free Elegant Cooming Soon Template
-
-Official Coming Soon Page, Landing Page, Under Construction Page for Jagopemrograman.com
 
 # Special Thanks to
 <a href="http://google.com">Google</a><br>
