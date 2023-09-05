@@ -15,5 +15,5 @@ Jagopemrograman.com adalah sebuah website E-learning yang menyajikan informasi t
 <a href="http://google.com">Google</a><br>
 <a href="http://github.com">Github</a><br>
 <a href="http://jagopemrograman.com">Jago Pemrograman</a><br>
-<a href="http://github.com/agilcahya">Agil Cahya Pamungkas</a><br>
+<a href="http://github.com/agilcahya">Agil</a><br>
 
